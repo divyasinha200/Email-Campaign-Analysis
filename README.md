@@ -98,6 +98,13 @@ As a Business Analyst, I:
 
 ---
 
+## 📸 Dashboard Previews
+
+### Credit Card Defaulters Dashboard 
+![Credit Card Defaulters Dashboard]()
+
+---
+
 ## 🚀 Getting Started
 
 1. Clone or download this repo
