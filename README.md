@@ -100,8 +100,8 @@ As a Business Analyst, I:
 
 ## 📸 Dashboard Previews
 
-### Credit Card Defaulters Dashboard 
-![Credit Card Defaulters Dashboard](https://github.com/divyasinha200/Email-Campaign-Analysis/blob/main/Email%20campaign%20analysis%20dashboard.png)
+### Email- Campaign Analysis Dashboard 
+![Email- Campaign Analysis Dashboard](https://github.com/divyasinha200/Email-Campaign-Analysis/blob/main/Email%20campaign%20analysis%20dashboard.png)
 
 ---
 
